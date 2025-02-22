@@ -1,0 +1,20 @@
+{
+  "name": "hexgenv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^6.0.1",
+    "jimp": "^0.22.12",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.3"
+  }
+}
